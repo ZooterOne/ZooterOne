@@ -1,4 +1,13 @@
-### Hi there 👋
+## 👋 Who am I
+
+- 🏠 I’m from France and living in Australia.
+- 👨‍💻 I’m currently working as a Software Engineer.
+- 🌱 I’m currently learning Python & Cyber Security.
+
+## My skills 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,c,cpp,py,linux,powershell&perline=5)](https://skillicons.dev)
+
+
 
 <!--
 **ZooterOne/ZooterOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
