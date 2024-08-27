@@ -2,10 +2,10 @@
 
 - 🏠 I’m from France and living in Australia.
 - 👨‍💻 I’m currently working as a Software Engineer.
-- 🌱 I’m currently learning Python & Cyber Security.
+- 🌱 I’m currently learning Python & Machine Learning.
 
 ## My skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,c,cpp,py,linux,powershell&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,py,c,cpp,linux,powershell&perline=5)](https://skillicons.dev)
 
 
 
